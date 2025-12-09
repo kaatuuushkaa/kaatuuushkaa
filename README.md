@@ -12,24 +12,12 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaatuuushkaa&repo=user_service)](https://github.com/kaatuuushkaa/user_service)
-
+- [user_service](https://github.com/kaatuuushkaa/user_service) – сервис для управления пользователями, их поинтами и выполнением заданий. Пользователь может получать награды за выполнение задач (подписки, приглашения и т.д.) и за ввод реферального кода. Добавлена JWT-аутенфикация
+- [go_microservice](https://github.com/kaatuuushkaa/go_microservice) – микросервис с Kafka, Redis и PostgreSQL.
+- [PullRequestService](https://github.com/kaatuuushkaa/PullRequestService) – микросервис, который автоматически назначает ревьюеров на Pull Request’ы (PR), а также позволяет управлять командами и участниками. Взаимодействие происходит исключительно через HTTP API.
+- [task_service](https://github.com/kaatuuushkaa/task_service) – gRPC-сервис задач.
 
 ## Contacts
 - Email: toroshinakatya@gmail.com
 - Telegram: @kaatuuushkaa
 
-<!--
-**kaatuuushkaa/kaatuuushkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
