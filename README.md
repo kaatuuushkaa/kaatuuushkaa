@@ -10,12 +10,19 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## Projects
 - [user_service](https://github.com/kaatuuushkaa/user_service) – сервис для управления пользователями, их поинтами и выполнением заданий. Пользователь может получать награды за выполнение задач (подписки, приглашения и т.д.) и за ввод реферального кода. Добавлена JWT-аутенфикация
+  - Stack: Go, PostgreSQL, Docker, Docker Compose, REST API, JWT, BCrypt
 - [go_microservice](https://github.com/kaatuuushkaa/go_microservice) – микросервис с Kafka, Redis и PostgreSQL.
+  - Stack: Go, PostgreSQL, Docker, Docker Compose, OpenAPI, Gin, Kafka, Redis, migrations
 - [PullRequestService](https://github.com/kaatuuushkaa/PullRequestService) – микросервис, который автоматически назначает ревьюеров на Pull Request’ы (PR), а также позволяет управлять командами и участниками. Взаимодействие происходит исключительно через HTTP API.
+  - Stack: Go, PostgreSQL, Docker, Docker Compose, OpenAPI, Echo, transactions, load testing
 - [task_service](https://github.com/kaatuuushkaa/task_service) – gRPC-сервис задач.
+  - Stack: Go, PostgreSQL, Docker, Docker Compose, gRPC, protobuf
 
 ## Contacts
 - Email: toroshinakatya@gmail.com
