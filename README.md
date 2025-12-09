@@ -11,7 +11,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaatuuushkaa&repo=user_service)](https://github.com/kaatuuushkaa/github-user_service)
 
 
 
